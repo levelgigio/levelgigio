@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Back-end Software Developer 👨‍💻
+
+ 
+
+A little more about me...
+
+const gigio = {
+    pronouns: "He" | "Him",
+    askMeAbout: ["web dev", "tech", "linux", "hardware prototyping"],
+    technologies:{
+        backEnd: ["nodejs", "express", "python", "Django"],
+        fronEnd: ["vue"],
+        database: ["mongo","mySql"],
+        devOps: ["AWS", "Nginx", "Jenkins", "Docker"],
+        misc: ["Socket.IO"]
+    },
+    architecture: ["Modular Architecture", "microservices", "event-driven", "Single page applications"],
+}
