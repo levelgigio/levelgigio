@@ -16,21 +16,21 @@ Here are some ideas to get you started:
 -->
 
 
-Back-end Software Developer 👨‍💻
+Computer Engineer 👨‍💻
 
  
 
 A little more about me...
 
+```javascript
 const gigio = {
     pronouns: "He" | "Him",
-    askMeAbout: ["web dev", "tech", "linux", "hardware prototyping"],
+    askMeAbout: ["backend", "tech", "linux", "hardware prototyping"],
     technologies:{
-        backEnd: ["nodejs", "express", "python", "Django"],
-        fronEnd: ["vue"],
+        backEnd: ["nodejs", "express", "python", "flask"],
+        fronEnd: ["react"],
         database: ["mongo","mySql"],
-        devOps: ["AWS", "Nginx", "Jenkins", "Docker"],
-        misc: ["Socket.IO"]
-    },
-    architecture: ["Modular Architecture", "microservices", "event-driven", "Single page applications"],
+        devOps: ["Azure"],
+    }
 }
+```
