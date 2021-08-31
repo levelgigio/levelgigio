@@ -25,11 +25,11 @@ A little more about me...
 ```javascript
 const gigio = {
     pronouns: "He" | "Him",
-    askMeAbout: ["backend", "tech", "linux", "hardware prototyping"],
+    askMeAbout: ["ETL", "backend", "tech", "linux", "hardware prototyping"],
     technologies:{
         backEnd: ["nodejs", "express", "python", "flask"],
         fronEnd: ["react"],
-        database: ["mongo","mySql"],
+        database: ["Sql", "NoSql"],
         devOps: ["Azure"],
     }
 }
