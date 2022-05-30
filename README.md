@@ -24,12 +24,12 @@ A little more about me...
 
 ```javascript
 const gigio = {
-    askMeAbout: ["ETL", "backend", "tech", "linux", "hardware prototyping"],
+    askMeAbout: ["Data Engineering", "ETL", "backend", "tech", "linux", "hardware prototyping"],
     technologies:{
-        backEnd: ["nodejs", "express", "python", "flask"],
-        fronEnd: ["react"],
-        database: ["Sql", "NoSql"],
-        devOps: ["Azure"],
+        preferedLanguages: ["python", "JavaScript", "C++"],
+        database: ["SQL", "NoSql", "Pandas", "Snowflake"],
+        cloud: ["Azure"],
+        versioning: ["Git"]
     }
 }
 ```
