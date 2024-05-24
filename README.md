@@ -24,9 +24,9 @@ A little more about me...
 
 ```javascript
 const gigio = {
-    askMeAbout: ["Data Engineering", "ETL", "backend", "tech", "linux", "hardware prototyping"],
+    askMeAbout: ["Data Engineering", "ETL", "Azure", "SQL", "linux", "bash", "git", "Snowflake", "Databricks", "PySpark"],
     technologies:{
-        preferedLanguages: ["python", "JavaScript", "C++"],
+        preferedLanguages: ["python"],
         database: ["SQL", "NoSql", "Pandas", "Snowflake"],
         cloud: ["Azure"],
         versioning: ["Git"]
